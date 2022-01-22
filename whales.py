@@ -1,5 +1,5 @@
 from whalealert.whalealert import WhaleAlert
-whale_alert2 = 'vjgY0WV1NnsEswh7Mrn2QSida4vMd8iM'
+whale_alert2 = 'whale api key'
 import time
 import datetime as dt
 rest_base_url = 'https://api.whale-alert.io/v1'
